@@ -1,2 +1,1 @@
-just info 
-#subheader
+My solutions to fullstackopen exercises
